@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day01_API/Day01_API.iml" filepath="$PROJECT_DIR$/Day01_API/Day01_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day02_CollectionAndReflect/Day02_CollectionAndReflect.iml" filepath="$PROJECT_DIR$/Day02_CollectionAndReflect/Day02_CollectionAndReflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day03_ListAndSet/Day03_ListAndSet.iml" filepath="$PROJECT_DIR$/Day03_ListAndSet/Day03_ListAndSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day04_Map/Day04_Map.iml" filepath="$PROJECT_DIR$/Day04_Map/Day04_Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day05_ExceptionAndThread/Day05_ExceptionAndThread.iml" filepath="$PROJECT_DIR$/Day05_ExceptionAndThread/Day05_ExceptionAndThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day06_Thread/Day06_Thread.iml" filepath="$PROJECT_DIR$/Day06_Thread/Day06_Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day07_ThreadAndLamda/Day07_ThreadAndLamda.iml" filepath="$PROJECT_DIR$/Day07_ThreadAndLamda/Day07_ThreadAndLamda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day08_FileAndRecursion/Day08_FileAndRecursion.iml" filepath="$PROJECT_DIR$/Day08_FileAndRecursion/Day08_FileAndRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day09_IOAndProperties/Day09_IOAndProperties.iml" filepath="$PROJECT_DIR$/Day09_IOAndProperties/Day09_IOAndProperties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day10_IO/Day10_IO.iml" filepath="$PROJECT_DIR$/Day10_IO/Day10_IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day11_Net/Day11_Net.iml" filepath="$PROJECT_DIR$/Day11_Net/Day11_Net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day12_FunctionalInterface/Day12_FunctionalInterface.iml" filepath="$PROJECT_DIR$/Day12_FunctionalInterface/Day12_FunctionalInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day13_StreamAndMethodReference/Day13_StreamAndMethodReference.iml" filepath="$PROJECT_DIR$/Day13_StreamAndMethodReference/Day13_StreamAndMethodReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Code.iml" filepath="$PROJECT_DIR$/Java_Code.iml" />
+    </modules>
+  </component>
+</project>
